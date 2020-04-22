@@ -5,7 +5,7 @@ by [bali ashok kumar](https://www.youtube.com/watch?v=aoFDyt8oG0k&list=PL6n9fhu9
 
 this is learning to create .md file in github
 
-programming *snippet* is written below
+* programming *snippet* is written below
 
 ```{.snippet}
 ashko kumar
