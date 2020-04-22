@@ -11,6 +11,8 @@ this is learning to create .md file in github
 ashko kumar
 hello world
 
+The first line of the program is 
 ```c#
-hello this is coding area 
+using System;
+```
 
