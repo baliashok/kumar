@@ -11,5 +11,6 @@ this is learning to create .md file in github
 ashko kumar
 hello world
 
-```hello this is coding area 
+```c#
+hello this is coding area 
 
